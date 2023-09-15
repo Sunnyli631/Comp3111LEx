@@ -1,2 +1,2 @@
 hi!
-![](https://drive.google.com/file/d/1LNrCZmEwSfcFiiijMqHizTXwnEISEonc/view?usp=sharing)
+<img src="/Users/sunnyli/Desktop/comp3111lab1readme.png"/>
