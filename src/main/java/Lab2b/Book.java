@@ -13,7 +13,7 @@ public class Book {
     }
     public Book(String argument[]){
         chapters=new String[argument.length];
-        for(int i=0;i< chapters.length;i++){
+        for(int i=0;i< argument.length;i++){
             chapters[i]=argument[i];
         }
     }
